@@ -2,5 +2,6 @@
 
 OOP in JavaScrip - ES6.
 CLASS [Post,UI,Store]
+Validation
 
-Bootstrap 4.3.1
+CSS - Bootstrap 4.3.1

@@ -126,6 +126,7 @@ document.getElementById('post-form').addEventListener('submit', function(e){
     const post = new Post(title, body);
     const ui   = new UI();
 
+    // Validation
     if(title === '' || body === ''){
         ui.showAlert('All fields are required !', 'danger');
     }
